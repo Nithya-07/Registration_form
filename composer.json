@@ -1,2 +1,3 @@
 {
+  require('vendor/login.php')
 }
